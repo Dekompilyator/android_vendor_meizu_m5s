@@ -42,8 +42,8 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m5s/proprietary/etc/firmware/catcher_filter_1_lwg_n.bin:system/etc/firmware/catcher_filter_1_lwg_n.bin \
     vendor/meizu/m5s/proprietary/etc/firmware/dsp_1_lwg_n.bin:system/etc/firmware/dsp_1_lwg_n.bin \
     vendor/meizu/m5s/proprietary/etc/firmware/modem_1_lwg_n.img:system/etc/firmware/modem_1_lwg_n.img \
-    vendor/meizu/m5s/proprietary/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_MP_V90_P46_1_lwg_n:system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_MP_V90_P46_1_lwg_n \
-    vendor/meizu/m5s/proprietary/etc/mddb/DbgInfo_LR9.W1444.MD.LWTG.MP_GR6753_65T_MZ_M0_LWG_DSDS_MOLY_LR9_W1444_MD_LWTG_MP_V90_P46_2016_12_29_14_20_1_lwg_n:system/etc/mddb/DbgInfo_LR9.W1444.MD.LWTG.MP_GR6753_65T_MZ_M0_LWG_DSDS_MOLY_LR9_W1444_MD_LWTG_MP_V90_P46_2016_12_29_14_20_1_lwg_n \
+    vendor/meizu/m5s/proprietary/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_MP_V90_P59_1_lwg_n:system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_MP_V90_P59_1_lwg_n \
+    vendor/meizu/m5s/proprietary/etc/mddb/DbgInfo_LR9.W1444.MD.LWTG.MP_GR6753_65T_MZ_M0_LWG_DSDS_MOLY_LR9_W1444_MD_LWTG_MP_V90_P59_2017_03_07_13_52_1_lwg_n:system/etc/mddb/DbgInfo_LR9.W1444.MD.LWTG.MP_GR6753_65T_MZ_M0_LWG_DSDS_MOLY_LR9_W1444_MD_LWTG_MP_V90_P59_2017_03_07_13_52_1_lwg_n \
     vendor/meizu/m5s/proprietary/bin/akmd09911:system/bin/akmd09911 \
     vendor/meizu/m5s/proprietary/bin/akmd8963:system/bin/akmd8963 \
     vendor/meizu/m5s/proprietary/bin/akmd8975:system/bin/akmd8975 \
@@ -284,11 +284,8 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m5s/proprietary/etc/factory.ini:system/etc/factory.ini \
     vendor/meizu/m5s/proprietary/lib64/libminiui.so:system/lib64/libminiui.so \
     vendor/meizu/m5s/proprietary/lib64/libacdk.so:system/lib64/libacdk.so \
-    vendor/meizu/m5s/proprietary/res/sound/ringtone.wav:system/res/sound/ringtone.wav \
     vendor/meizu/m5s/proprietary/lib/hw/lights.mt6753.so:system/lib/hw/lights.mt6753.so \
     vendor/meizu/m5s/proprietary/lib64/hw/lights.mt6753.so:system/lib64/hw/lights.mt6753.so \
-    vendor/meizu/m5s/proprietary/lib/hw/memtrack.mt6753.so:system/lib/hw/memtrack.mt6753.so \
-    vendor/meizu/m5s/proprietary/lib64/hw/memtrack.mt6753.so:system/lib64/hw/memtrack.mt6753.so \
     vendor/meizu/m5s/proprietary/etc/firmware/ROMv2_lm_patch_1_0_hdr.bin:system/etc/firmware/ROMv2_lm_patch_1_0_hdr.bin \
     vendor/meizu/m5s/proprietary/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin:system/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin \
     vendor/meizu/m5s/proprietary/etc/firmware/WIFI_RAM_CODE_6735:system/etc/firmware/WIFI_RAM_CODE_6735 \
